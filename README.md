@@ -1,66 +1,62 @@
 # はろける – 目撃！テト31世
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-君の一番　かわいいところな～んだ？
-（かかと？）
-撃ち抜かれたり　飛び出ちゃうものな～んだ？
-（ハート？）
-大きくなると　固くなるものな～んだ？
-（あー...）
-君が一番　ドキドキするの　だ～れ～だ！！！
-ボクのことでしょ？（違うがー？）
-PARTY PARTY PARTY PARTY
-Today is the 31st (トゥデイズ　ザ　サーティー
-ファースト)
-PUMPKIN PUMPKIN PUMPKIN PUMKIN
-Teto is 31(テト　イズ　サーティーワン)
-ZOMBIE ZOMBIE ZOMBIE ZOMBIE
-Today is the 31st (トゥデイズ　ザ　サーティー
-ファースト)
-英語じゃ何言ってっか
-わかんない！！
-PARTY PARTY PARTY PARTY
-無責任だけど！
-PUMPKIN PUMPKIN PUMPKIN PUMKIN
-奪ったげるわ
-ZOMBIE ZOMBIE ZOMBIE ZOMBIE
-痛くしないから
-初めて　ボクが奪ったげるわ
-よいこのみんなへ
-今からボクは、お前らの █████をいただきに参
-上します！
-From テト31世
-P.s
-ちなみに僕は～
-名画も秘宝も、絶～っ対奪ったりなんてしないんだか
-らね？
-…ほ、本当だよ？　あ、あと...最後に一言
-ういちゃんにどうしても伝えたいことがあるんだ。
-おかしなこと言ってもいい？
-ボクと結婚してくれ！
-おまえと　結婚　する訳ないんだがー？
-（ぬああああああああああ！）
-PARTY PARTY PARTY PARTY
-Today is the 31st (トゥデイズ　ザ　サーティー
-ファースト)
-PUMPKIN PUMPKIN PUMPKIN PUMKIN
-Teto is 31(テト　イズ　サーティーワン)
-ZOMBIE ZOMBIE ZOMBIE ZOMBIE
-Today is the 31st (トゥデイズ　ザ　サーティー
-ファースト)
-(CANDY CANDY COOKIECOOKIE)
-チョコレート！
-PARTY PARTY PARTY PARTY
-無責任なのは
-PUMPKIN PUMPKIN PUMPKIN PUMKIN
-ボクじゃないわ
-ZOMBIE ZOMBIE ZOMBIE ZOMBIE
-勘違いしないで
-キミたち～？　ボクが奪ったげるわ
-捕まえられるものなら
-られるものなら
-られるものなら
-捕まえてみろよ！
+```lrc
+[00:07.85] 君の一番　かわいいところな～んだ？
+[00:12.68] （かかと？）
+[00:13.92] 撃ち抜かれたり　飛び出ちゃうものな～んだ？
+[00:18.60] （ハート？）
+[00:19.83] 大きくなると　固くなるものな～んだ？
+[00:24.81] （あー...）
+[00:25.92] 君が一番　ドキドキするの　だ～れ～だ！！！
+[00:31.54] ボクのことでしょ？（違うがー？）
+[00:34.72] PARTY PARTY PARTY PARTY
+[00:36.25] Today is the 31st
+[00:37.51] PUMPKIN PUMPKIN PUMPKIN PUMKIN
+[00:39.22] Teto is 31
+[00:40.54] ZOMBIE ZOMBIE ZOMBIE ZOMBIE
+[00:42.26] Today is the 31st
+[00:43.51] 英語じゃ何言ってっか
+[00:45.94] わかんない！！
+[00:46.66] PARTY PARTY PARTY PARTY
+[00:48.22] 無責任だけど！
+[00:49.50] PUMPKIN PUMPKIN PUMPKIN PUMKIN
+[00:51.30] 奪ったげるわ
+[00:52.54] ZOMBIE ZOMBIE ZOMBIE ZOMBIE
+[00:54.25] 痛くしないから
+[00:55.61] 初めて　ボクが奪ったげるわ
+[01:00.82] よいこのみんなへ
+[01:02.68] 今からボクは、お前らの █████をいただきに参上します！
+[01:06.83] From テト31世
+[01:09.53] P.s
+[01:10.69] ちなみに僕は～
+[01:12.43] 名画も秘宝も、絶～っ対奪ったりなんてしないんだからね？
+[01:16.63] …ほ、本当だよ？　あ、あと...最後に一言
+[01:20.62] ういちゃんにどうしても伝えたいことがあるんだ。
+[01:24.46] おかしなこと言ってもいい？
+[01:25.80] ボクと結婚してくれ！
+[01:27.08] おまえと
+[01:27.89] 結婚
+[01:28.54] する訳ないんだがー？
+[01:30.07] （ぬああああああああああ！）
+[01:33.07] PARTY PARTY PARTY PARTY
+[01:34.81] Today is the 31st
+[01:36.06] PUMPKIN PUMPKIN PUMPKIN PUMKIN
+[01:37.84] Teto is 31
+[01:39.00] ZOMBIE ZOMBIE ZOMBIE ZOMBIE
+[01:40.89] Today is the 31st
+[01:42.20] (CANDY CANDY COOKIECOOKIE)
+[01:43.70] チョコレート！
+[01:45.03] PARTY PARTY PARTY PARTY
+[01:46.75] 無責任なのは
+[01:48.01] PUMPKIN PUMPKIN PUMPKIN PUMKIN
+[01:49.74] ボクじゃないわ
+[01:51.00] ZOMBIE ZOMBIE ZOMBIE ZOMBIE
+[01:52.69] 勘違いしないで
+[01:54.03] キミたち～？　ボクが奪ったげるわ
+[02:06.22] 捕まえられるものなら
+[02:09.36] られるものなら
+[02:10.78] られるものなら
+[02:12.34] 捕まえてみろよ！
 ```
